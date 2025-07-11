@@ -1,7 +1,6 @@
 # 🎬 Movie Recommender System Using Machine Learning!
 
-<img src="https://github.com/Rishabhkabra2005/screenshot/raw/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183726.png" alt="screenshot" width="70%"/>
-
+<img src="https://github.com/Rishabhkabra2005/screenshot/raw/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183836.png" alt="Recommendation Overview" width="70%"/>
 
 Recommendation systems are becoming increasingly important in today’s fast-paced world. People are often short on time, and recommender systems help them make better choices quickly, without expending much cognitive effort.
 
