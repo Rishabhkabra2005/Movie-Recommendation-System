@@ -1,6 +1,7 @@
 # 🎬 Movie Recommender System Using Machine Learning!
 
-https://github.com/Rishabhkabra2005/screenshot/blob/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183836.png
+<img src="https://github.com/Rishabhkabra2005/screenshot/raw/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183726.png" alt="screenshot" width="70%"/>
+
 
 Recommendation systems are becoming increasingly important in today’s fast-paced world. People are often short on time, and recommender systems help them make better choices quickly, without expending much cognitive effort.
 
@@ -119,12 +120,13 @@ streamlit run main.py
 🔗 [Learn More](https://www.learndatasci.com/glossary/cosine-similarity/)
 
 ---
-
 ## 📷 Demo
-https://github.com/Rishabhkabra2005/screenshot/blob/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183726.png
-https://github.com/Rishabhkabra2005/screenshot/blob/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183755.png
-https://github.com/Rishabhkabra2005/screenshot/blob/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183820.png
----
+
+<img src="https://github.com/Rishabhkabra2005/screenshot/raw/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183726.png" alt="Spider-Man Demo" width="70%"/>
+
+<img src="https://github.com/Rishabhkabra2005/screenshot/raw/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183755.png" alt="Avatar Demo" width="70%"/>
+
+<img src="https://github.com/Rishabhkabra2005/screenshot/raw/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183820.png" alt="Avengers Demo" width="70%"/>
 
 ## 🐞 Known Issues
 
