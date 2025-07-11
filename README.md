@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender System Using Machine Learning!
 
-<img src="demo/6.jpeg" alt="workflow" width="70%"/>
+<img src="demo/Screenshot%202025-07-11%20183836.png" alt="Recommendation Systems Concept" width="80%"/>
 
 Recommendation systems are becoming increasingly important in today’s fast-paced world. People are often short on time, and recommender systems help them make better choices quickly, without expending much cognitive effort.
 
@@ -122,10 +122,9 @@ streamlit run main.py
 
 ## 📷 Demo
 
-<img src="demo/1.png" alt="demo1" width="70%"/>  
-<img src="demo/2.png" alt="demo2" width="70%"/>  
-<img src="demo/3.png" alt="demo3" width="70%"/>
-
+<img src="demo/Screenshot%202025-07-11%20183726.png" alt="Spider-Man 3 demo" width="80%"/>
+<img src="demo/Screenshot%202025-07-11%20183755.png" alt="Avatar demo" width="80%"/>
+<img src="demo/Screenshot%202025-07-11%20183820.png" alt="Avengers demo" width="80%"/>
 ---
 
 ## 🐞 Known Issues
