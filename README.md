@@ -1,6 +1,6 @@
 # 🎬 Movie Recommender System Using Machine Learning!
 
-<img src="demo/Screenshot%202025-07-11%20183836.png" alt="Recommendation Systems Concept" width="80%"/>
+https://github.com/Rishabhkabra2005/screenshot/blob/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183836.png
 
 Recommendation systems are becoming increasingly important in today’s fast-paced world. People are often short on time, and recommender systems help them make better choices quickly, without expending much cognitive effort.
 
@@ -121,10 +121,9 @@ streamlit run main.py
 ---
 
 ## 📷 Demo
-
-<img src="demo/Screenshot%202025-07-11%20183726.png" alt="Spider-Man 3 demo" width="80%"/>
-<img src="demo/Screenshot%202025-07-11%20183755.png" alt="Avatar demo" width="80%"/>
-<img src="demo/Screenshot%202025-07-11%20183820.png" alt="Avengers demo" width="80%"/>
+https://github.com/Rishabhkabra2005/screenshot/blob/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183726.png
+https://github.com/Rishabhkabra2005/screenshot/blob/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183755.png
+https://github.com/Rishabhkabra2005/screenshot/blob/99d5b6070e3a1756f468571b319a61eb17dbc9f0/Screenshot%202025-07-11%20183820.png
 ---
 
 ## 🐞 Known Issues
